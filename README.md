@@ -259,4 +259,3 @@ python electricity_monitor.py run --interval 86400
 
 MIT，见 [LICENSE](LICENSE)。
 
-> AI生成
