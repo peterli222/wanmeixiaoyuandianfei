@@ -1,0 +1,4 @@
+# 本项目不需要任何第三方依赖。
+#
+# 只要有 Python 3.8+ 就能跑（标准库 + sqlite3 足够），不用 pip install。
+# 原版这里的 cryptography 是给已删除的「账密登录 / RSA + 3DES」链路用的，现在用不到。

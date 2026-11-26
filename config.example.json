@@ -1,0 +1,23 @@
+{
+  "schoolcode": "0000",
+  "room": {
+    "roomverify": "1-1--1-101",
+    "label": "示例：X号楼 101（改成你自己的）"
+  },
+  "payPro": {
+    "electric": {
+      "name": "用电支出",
+      "businesstype": 2
+    }
+  },
+  "cloud": {
+    "api_url": "https://cloudpaygateway.17wanxiao.com/paygateway/smallpaygateway/trade",
+    "payproid": "0000",
+    "businesstype": "2"
+  },
+  "threshold_low": 30,
+  "alert_window": [
+    8,
+    23
+  ]
+}
